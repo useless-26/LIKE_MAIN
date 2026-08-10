@@ -5,4 +5,3 @@ googleapis-common-protos
 pycryptodome
 protobuf
 Werkzeug
-gunicorn==21.2.0
